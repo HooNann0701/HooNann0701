@@ -31,11 +31,7 @@
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,docker,git,github&perline=8" />
 </p>
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HooNann0701&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&hide=stars,issues&include_all_commits=true" />
-</p>
-
+## 📈 GitHub Activity
 <p align="center">
   <img src="/github-metrics.svg" alt="Contribution calendar" />
 </p>
